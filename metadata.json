@@ -1,0 +1,6 @@
+{
+  "name": "GeoRoute Planner",
+  "description": "Aplikasi mobile-first untuk pencatatan titik lokasi POI, pemetaan interaktif, rute Google Maps dengan navigasi kamera HUD transparan.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
